@@ -1,0 +1,6 @@
+{
+  "name": "TRSP Kids — Kids Book Portfolio",
+  "description": "Official Children's Book Portfolio of The Royal Scientific Publications Ltd. — World Class Publications in Bangladesh. Exploring vibrant early learning, moral stories, vocabulary and bilingual kids books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
